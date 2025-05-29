@@ -11,4 +11,4 @@ View the interactive dashboard here: https://public.tableau.com/views/VideoGameS
 - PDF of Tableau dashboard
 
 ## Data Source
-Source: [Kaggle - Pokemon with stats Dataset]([(https://www.kaggle.com/datasets/abcsds/pokemon?resource=download)])
+Source: [Kaggle - Pokemon with stats Dataset]([https://www.kaggle.com/datasets/abcsds/pokemon?resource=download])
